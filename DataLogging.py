@@ -25,7 +25,7 @@ while True:
 
             print("Matrix saved to matrix.csv")
         else:
-            print("Invalid data received")
+            print("Invalid data received -edit-")
 
     except KeyboardInterrupt:
         break
